@@ -1,0 +1,5 @@
+List of features:
+
+1. Display fruits
+2. Display colours
+3. Display shapes 
