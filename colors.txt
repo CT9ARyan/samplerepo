@@ -3,3 +3,6 @@ white
 black
 green
 yellow
+red
+purple
+grey
